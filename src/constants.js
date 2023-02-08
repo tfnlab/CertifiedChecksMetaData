@@ -1,4 +1,4 @@
-const HOST = 'https://certifiedchecksmetadata.homerenovationnation.com'
+const HOST = 'https://ccmetadata.homerenovationnation.com'
 
 module.exports = {
   HOST
